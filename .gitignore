@@ -7,3 +7,11 @@ __pycache__/
 .coverage
 
 htmlcov/
+
+.vscode/
+
+mock-demo/
+
+tdd-ostoskori/
+
+verkkokauppa/
